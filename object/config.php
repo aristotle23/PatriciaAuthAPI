@@ -3,7 +3,7 @@
  * datatabase configuration
  */
 define("SERVERNAME","localhost");
-define("DBNAME","myice");
+define("DBNAME","sample");
 define("USERNAME", "root");
-define("PASSWORD", "developers");
+define("PASSWORD", "pass");
 
